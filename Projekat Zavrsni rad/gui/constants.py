@@ -1,0 +1,1 @@
+MAIN_FONT = ("Segoe UI", 16)
